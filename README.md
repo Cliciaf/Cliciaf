@@ -24,7 +24,7 @@ Tenho 23 anos e estou me graduando em Ciência da Computação na UVV (atualment
   
 <div>
   
-![Snake animation](https://github.com/Cliciaf/Cliciaf/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Cliciaf/Cliciaf/blob/output/github-contribution-grid-snake.svg)
   
 </div>  
     
