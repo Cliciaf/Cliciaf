@@ -4,7 +4,7 @@ Tenho 23 anos e estou me graduando em Ciência da Computação na UVV (atualment
 
 <div>
   <a href="https://github.com/Cliciaf">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cliciaf&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cliciaf&show_icons=true&theme=tokyonight&count_private=true&include_all_commits"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cliciaf&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
