@@ -1,6 +1,6 @@
 ### Oiii, eu sou a Clícia 🤩
 
-Tenho 23 anos e estou me graduando em Ciência da Computação na UVV (atualmente no terceiro período). Meu principal foco e trabalho atualmente está voltado para o back-end, com linguagens como SQL e PhP.
+Tenho 24 anos e estou me graduando em Ciência da Computação na UVV (atualmente no terceiro período). Meu principal foco e trabalho atualmente está voltado para o back-end, com linguagens como SQL e PhP.
 
 <div>
   <a href="https://github.com/Cliciaf">
