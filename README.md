@@ -1,6 +1,6 @@
 ### Oiii, eu sou a Clícia 🤩
 
-Tenho 24 anos e estou me graduando em Ciência da Computação na UVV (atualmente no sexto período). Sou consultora Abap junior e freelancer nas poucas horas vagas.
+Tenho 25 anos e estou me graduando em Ciência da Computação na UVV (atualmente no sexto período). Sou consultora Abap junior e freelancer nas poucas horas vagas.
 
 <div>
   <a href="https://github.com/Cliciaf">
